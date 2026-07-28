@@ -1,0 +1,23 @@
+# Flutter
+FLUTTER/.dart_tool/
+FLUTTER/build/
+FLUTTER/.flutter-plugins
+FLUTTER/.flutter-plugins-dependencies
+
+# Python
+PYTHON/__pycache__/
+PYTHON/.venv/
+PYTHON/venv/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Large files
+*.apk
+*.mp4
+*.avi
+
+# Model files
+*.pt
+*.pth
