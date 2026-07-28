@@ -1,0 +1,813 @@
+🚨 Crash Detection Report
+Generated on: 2025-04-01 14:22:08
+==================================================
+
+👤 User Information
+No user logged in
+
+⚙️ Software Settings
+{
+    "debug_mode": 0,
+    "gpu_acceleration": 0,
+    "crash_notifications": 0,
+    "map_view": "Hybrid View",
+    "map_theme": "Satellite",
+    "font_size": "Medium",
+    "dark_mode": true
+}
+
+🚗 Crash Reports
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "01ecfc4a-3c21-4231-854f-e3a6eb8c77a5",
+    "crash_pic": null,
+    "crash_time": "04:58:15"
+}
+
+{
+    "crash_description": null,
+    "resolved": "yes",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-04-01",
+    "crash_id": "078d0066-d988-447f-8eff-535dc319e147",
+    "crash_pic": null,
+    "crash_time": "10:13:13"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "08d83af7-b57d-4ae2-aca1-e2164dfcb5be",
+    "crash_pic": null,
+    "crash_time": "08:53:07"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "0c99382a-82f4-40b0-9755-ce9265767f6e",
+    "crash_pic": null,
+    "crash_time": "09:31:41"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-28",
+    "crash_id": "11c24207-4e99-4493-8045-995f48db1480",
+    "crash_pic": null,
+    "crash_time": "23:35:16"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.054676553769893,
+        "longitude": 76.32344015350338
+    },
+    "crash_date": "2025-04-01",
+    "crash_id": "168ba2a7-6af2-4910-a515-e21490a2e3bd",
+    "crash_pic": null,
+    "crash_time": "10:11:44"
+}
+
+{
+    "crash_description": null,
+    "resolved": "yes",
+    "crash_address": {
+        "latitude": 10.052775017691062,
+        "longitude": 76.31962068786618
+    },
+    "crash_date": "2025-04-01",
+    "crash_id": "1d5d420a-7bf3-4810-ae51-c7b19b20a736",
+    "crash_pic": null,
+    "crash_time": "14:13:19"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "25342361-ebeb-49e7-badc-9ba42ede1d78",
+    "crash_pic": null,
+    "crash_time": "06:26:52"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "2645aed8-2a0d-4e0f-9899-271f1b9c591e",
+    "crash_pic": null,
+    "crash_time": "10:07:14"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "29e2e3fc-5178-44e3-bad9-eee00de2f00f",
+    "crash_pic": null,
+    "crash_time": "09:07:36"
+}
+
+{
+    "crash_description": null,
+    "resolved": "yes",
+    "crash_address": {
+        "latitude": 10.05091572715198,
+        "longitude": 76.32930892568777
+    },
+    "crash_date": "2025-04-01",
+    "crash_id": "3701b983-3e95-4a7c-9c99-31e8a95af352",
+    "crash_pic": null,
+    "crash_time": "14:10:12"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "43df49af-5de8-4f44-912b-0988470a64d4",
+    "crash_pic": null,
+    "crash_time": "06:47:05"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "447fef2a-1b86-4c63-a237-3ed1db124ed1",
+    "crash_pic": null,
+    "crash_time": "06:25:16"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-04-01",
+    "crash_id": "49c60c68-0c06-48b3-99a2-3ba6d3febfb9",
+    "crash_pic": null,
+    "crash_time": "08:44:36"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-31",
+    "crash_id": "4ad59728-f24a-4511-8c82-7e2023ed2066",
+    "crash_pic": null,
+    "crash_time": "20:10:17"
+}
+
+{
+    "crash_description": null,
+    "resolved": "yes",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-30",
+    "crash_id": "4b1d82e1-59f7-414d-97b6-802fed613c83",
+    "crash_pic": null,
+    "crash_time": "19:08:13"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-28",
+    "crash_id": "527b56ff-94cc-4fef-a914-0a316174352e",
+    "crash_pic": null,
+    "crash_time": "23:51:37"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-31",
+    "crash_id": "53050552-937c-4492-9af5-cf217020e933",
+    "crash_pic": null,
+    "crash_time": "20:19:03"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "56f6b629-22e1-4f32-82d6-7182d76a1d98",
+    "crash_pic": null,
+    "crash_time": "06:39:37"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "5b7ea67f-a326-486c-aca9-0c6b5adc43cb",
+    "crash_pic": null,
+    "crash_time": "05:13:01"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-04-01",
+    "crash_id": "68a22f5d-9f84-445b-825f-69ee3096f5e0",
+    "crash_pic": null,
+    "crash_time": "08:45:47"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "69bf5a5a-164a-4004-ab12-0a87bd1b480c",
+    "crash_pic": null,
+    "crash_time": "07:47:33"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "6fdb2fa5-0e91-4892-ad10-76128925d07a",
+    "crash_pic": null,
+    "crash_time": "06:55:07"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "72ba6701-69bd-4cda-839a-909a042d85ad",
+    "crash_pic": null,
+    "crash_time": "11:07:45"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-31",
+    "crash_id": "78c9386d-bf92-4a52-8467-2a296938df10",
+    "crash_pic": null,
+    "crash_time": "22:13:19"
+}
+
+{
+    "crash_description": null,
+    "resolved": "yes",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-31",
+    "crash_id": "7944b476-d77a-4b81-96fe-05ea699fbadc",
+    "crash_pic": null,
+    "crash_time": "20:06:41"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "7fe3ca2f-abb7-48f6-99cd-80f833183ef1",
+    "crash_pic": null,
+    "crash_time": "06:45:29"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "813f5f74-ddf5-43f3-8398-68c93ca8df87",
+    "crash_pic": null,
+    "crash_time": "09:38:10"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-28",
+    "crash_id": "83f37bfe-09bc-4091-a732-b6b2ab23b02d",
+    "crash_pic": null,
+    "crash_time": "22:48:46"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-31",
+    "crash_id": "87a5a001-3a77-4fa0-9948-bdc106483c41",
+    "crash_pic": null,
+    "crash_time": "20:16:10"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.011868533508087,
+        "longitude": 76.36400856621344
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "8a02988c-12c2-4aa7-8712-fcd915510e02",
+    "crash_pic": null,
+    "crash_time": "08:47:42"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "8d81f414-6895-4fcd-8c35-d209c49d82dc",
+    "crash_pic": null,
+    "crash_time": "09:03:45"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "92ae13d6-2dd1-4972-988c-6bdda12d16c4",
+    "crash_pic": null,
+    "crash_time": "06:28:36"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "98d54926-df45-443c-9561-46b107b0bc22",
+    "crash_pic": null,
+    "crash_time": "06:50:20"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "a51473b6-31d6-4a2e-a424-7a16492861b8",
+    "crash_pic": null,
+    "crash_time": "08:45:40"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "b3be122b-fd9e-43be-a7ff-e7ac604f6734",
+    "crash_pic": null,
+    "crash_time": "08:58:34"
+}
+
+{
+    "crash_description": null,
+    "resolved": "yes",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-04-01",
+    "crash_id": "b6dc3eba-c9aa-44ce-82c7-4a55f161ef9e",
+    "crash_pic": null,
+    "crash_time": "08:17:03"
+}
+
+{
+    "crash_description": null,
+    "resolved": "yes",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-31",
+    "crash_id": "c0c9f3bb-62f4-4258-96d1-83a9daabb4fa",
+    "crash_pic": null,
+    "crash_time": "20:07:44"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.052775017691062,
+        "longitude": 76.32026441802975
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "c58e4e61-0484-4577-b00d-ea5d1e0a0482",
+    "crash_pic": null,
+    "crash_time": "08:41:08"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "caa5132c-ddf1-492c-ad64-bb8f4abc509d",
+    "crash_pic": null,
+    "crash_time": "00:00:15"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Kalamassery, Kerala",
+    "longitude": 76.314,
+    "crash_date": "2025-03-02",
+    "latitude": 10.048,
+    "crash_id": "crash_1740861488",
+    "crash_pic": "",
+    "crash_time": "00:38:08"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "no",
+    "crash_address": "Manjummel, Kerala",
+    "longitude": 76.305,
+    "crash_date": "2025-03-02",
+    "latitude": 10.049,
+    "crash_id": "crash_1740861506",
+    "crash_pic": "",
+    "crash_time": "00:38:26"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Thrikkakara, Kerala",
+    "longitude": 76.325,
+    "crash_date": "2025-03-02",
+    "latitude": 10.041,
+    "crash_id": "crash_1740862000",
+    "crash_pic": "",
+    "crash_time": "00:46:40"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "no",
+    "crash_address": "Kakkanad, Kerala",
+    "longitude": 76.341,
+    "crash_date": "2025-03-02",
+    "latitude": 10.015,
+    "crash_id": "crash_1740862068",
+    "crash_pic": "",
+    "crash_time": "00:47:48"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Edappally, Kerala",
+    "longitude": 76.312,
+    "crash_date": "2025-03-02",
+    "latitude": 10.026,
+    "crash_id": "crash_1740862104",
+    "crash_pic": "",
+    "crash_time": "00:48:24"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Kakkanad, Kerala",
+    "longitude": 76.352,
+    "crash_date": "2025-03-02",
+    "latitude": 9.985,
+    "crash_id": "crash_1740862196",
+    "crash_pic": "",
+    "crash_time": "00:49:56"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "no",
+    "crash_address": "Vazhakkala, Kerala",
+    "longitude": 76.334,
+    "crash_date": "2025-03-02",
+    "latitude": 10.021,
+    "crash_id": "crash_1740865727",
+    "crash_pic": "",
+    "crash_time": "01:48:47"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "no",
+    "crash_address": "Kaloor, Kerala",
+    "longitude": 76.301,
+    "crash_date": "2025-03-02",
+    "latitude": 9.998,
+    "crash_id": "crash_1740865883",
+    "crash_pic": "",
+    "crash_time": "01:51:23"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Kalamassery, Kerala",
+    "longitude": 76.348,
+    "crash_date": "2025-03-02",
+    "latitude": 10.054,
+    "crash_id": "crash_1740903217",
+    "crash_pic": "",
+    "crash_time": "12:13:37"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Coordinates: (10.05282, 76.32344)",
+    "longitude": 76.32344,
+    "crash_date": "2025-03-10",
+    "latitude": 10.05282,
+    "crash_id": "crash_1741584823",
+    "crash_pic": "",
+    "crash_time": "11:03:43"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Coordinates: (10.05408, 76.31649)",
+    "longitude": 76.31649,
+    "crash_date": "2025-03-10",
+    "latitude": 10.05408,
+    "crash_id": "crash_1741585144",
+    "crash_pic": "",
+    "crash_time": "11:09:04"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Coordinates: (10.05434, 76.32426)",
+    "longitude": 76.32426,
+    "crash_date": "2025-03-10",
+    "latitude": 10.05434,
+    "crash_id": "crash_1741585410",
+    "crash_pic": "",
+    "crash_time": "11:13:30"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "d967d0e5-07fa-4e25-acb4-89c73242233b",
+    "crash_pic": null,
+    "crash_time": "06:43:38"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-04-01",
+    "crash_id": "dc24d91b-92fc-4ada-863b-978a2eeeb05f",
+    "crash_pic": null,
+    "crash_time": "08:46:54"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "de0ac9c1-ec02-40e5-ad44-fbc9b16e4000",
+    "crash_pic": null,
+    "crash_time": "09:10:21"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "eb5cd041-af99-44cb-ba61-60aed05b5ff7",
+    "crash_pic": null,
+    "crash_time": "06:33:02"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "edbdfcb3-8a09-416b-a2c0-8b21a1e16c3a",
+    "crash_pic": null,
+    "crash_time": "07:53:02"
+}
+
+{
+    "crash_description": null,
+    "resolved": "yes",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-04-01",
+    "crash_id": "f1028ed4-bbc6-4e03-8df2-2c2b08d26a56",
+    "crash_pic": null,
+    "crash_time": "09:49:49"
+}
+
+{
+    "crash_description": null,
+    "resolved": "yes",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "f389df74-ba5f-4949-9f8b-52e6cb482544",
+    "crash_pic": null,
+    "crash_time": "10:08:39"
+}
+
+{
+    "crash_description": null,
+    "resolved": "no",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-04-01",
+    "crash_id": "f3a979f4-5cd2-470a-8501-91bcdf2d4337",
+    "crash_pic": null,
+    "crash_time": "08:51:57"
+}
+
+{
+    "crash_description": null,
+    "resolved": "yes",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "f689ce95-7f29-471b-9605-334bce505c21",
+    "crash_pic": null,
+    "crash_time": "09:39:38"
+}
+
+{
+    "crash_description": null,
+    "resolved": "yes",
+    "crash_address": {
+        "latitude": 10.048,
+        "longitude": 76.3149
+    },
+    "crash_date": "2025-03-29",
+    "crash_id": "f77c5be1-43a9-42c0-9601-a187ce75ca36",
+    "crash_pic": null,
+    "crash_time": "06:48:11"
+}
+

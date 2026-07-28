@@ -1,0 +1,163 @@
+🚨 Crash Detection Report
+Generated on: 2025-03-16 09:15:05
+==================================================
+
+👤 User Information
+No user logged in
+
+⚙️ Software Settings
+{
+    "debug_mode": 0,
+    "gpu_acceleration": 0,
+    "crash_notifications": 0,
+    "map_view": "Hybrid View",
+    "map_theme": "Satellite",
+    "font_size": "Medium",
+    "dark_mode": false
+}
+
+🚗 Crash Reports
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Kalamassery, Kerala",
+    "longitude": 76.314,
+    "crash_date": "2025-03-02",
+    "latitude": 10.048,
+    "crash_id": "crash_1740861488",
+    "crash_pic": "",
+    "crash_time": "00:38:08"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "no",
+    "crash_address": "Manjummel, Kerala",
+    "longitude": 76.305,
+    "crash_date": "2025-03-02",
+    "latitude": 10.049,
+    "crash_id": "crash_1740861506",
+    "crash_pic": "",
+    "crash_time": "00:38:26"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Thrikkakara, Kerala",
+    "longitude": 76.325,
+    "crash_date": "2025-03-02",
+    "latitude": 10.041,
+    "crash_id": "crash_1740862000",
+    "crash_pic": "",
+    "crash_time": "00:46:40"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "no",
+    "crash_address": "Kakkanad, Kerala",
+    "longitude": 76.341,
+    "crash_date": "2025-03-02",
+    "latitude": 10.015,
+    "crash_id": "crash_1740862068",
+    "crash_pic": "",
+    "crash_time": "00:47:48"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Edappally, Kerala",
+    "longitude": 76.312,
+    "crash_date": "2025-03-02",
+    "latitude": 10.026,
+    "crash_id": "crash_1740862104",
+    "crash_pic": "",
+    "crash_time": "00:48:24"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Kakkanad, Kerala",
+    "longitude": 76.352,
+    "crash_date": "2025-03-02",
+    "latitude": 9.985,
+    "crash_id": "crash_1740862196",
+    "crash_pic": "",
+    "crash_time": "00:49:56"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "no",
+    "crash_address": "Vazhakkala, Kerala",
+    "longitude": 76.334,
+    "crash_date": "2025-03-02",
+    "latitude": 10.021,
+    "crash_id": "crash_1740865727",
+    "crash_pic": "",
+    "crash_time": "01:48:47"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "no",
+    "crash_address": "Kaloor, Kerala",
+    "longitude": 76.301,
+    "crash_date": "2025-03-02",
+    "latitude": 9.998,
+    "crash_id": "crash_1740865883",
+    "crash_pic": "",
+    "crash_time": "01:51:23"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Kalamassery, Kerala",
+    "longitude": 76.348,
+    "crash_date": "2025-03-02",
+    "latitude": 10.054,
+    "crash_id": "crash_1740903217",
+    "crash_pic": "",
+    "crash_time": "12:13:37"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Coordinates: (10.05282, 76.32344)",
+    "longitude": 76.32344,
+    "crash_date": "2025-03-10",
+    "latitude": 10.05282,
+    "crash_id": "crash_1741584823",
+    "crash_pic": "",
+    "crash_time": "11:03:43"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Coordinates: (10.05408, 76.31649)",
+    "longitude": 76.31649,
+    "crash_date": "2025-03-10",
+    "latitude": 10.05408,
+    "crash_id": "crash_1741585144",
+    "crash_pic": "",
+    "crash_time": "11:09:04"
+}
+
+{
+    "crash_description": "None",
+    "resolved": "yes",
+    "crash_address": "Coordinates: (10.05434, 76.32426)",
+    "longitude": 76.32426,
+    "crash_date": "2025-03-10",
+    "latitude": 10.05434,
+    "crash_id": "crash_1741585410",
+    "crash_pic": "",
+    "crash_time": "11:13:30"
+}
+

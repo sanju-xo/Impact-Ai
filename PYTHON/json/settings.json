@@ -1,0 +1,9 @@
+{
+    "debug_mode": 1,
+    "gpu_acceleration": 0,
+    "crash_notifications": 0,
+    "map_view": "Hybrid View",
+    "map_theme": "Satellite",
+    "font_size": "Medium",
+    "dark_mode": true
+}

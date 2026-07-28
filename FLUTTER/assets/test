@@ -1,0 +1,18 @@
+Padding(
+  padding: EdgeInsets.symmetric(horizontal: horSpace, vertical: 10),
+  child: ElevatedButton(
+    onPressed: () {
+      // You can add any function here, like navigation or showing a dialog
+      print("🚀 Button Pressed!");
+    },
+    style: ElevatedButton.styleFrom(
+      backgroundColor: Colors.blue,
+      padding: EdgeInsets.symmetric(vertical: 12),
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+    ),
+    child: Text(
+      "Click Me",
+      style: TextStyle(fontSize: 16, color: Colors.white, fontWeight: FontWeight.bold),
+    ),
+  ),
+),

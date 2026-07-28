@@ -1,0 +1,2 @@
+C:/Users/LOQ/Desktop/MINI PROJECT/FLUTTER/android/app/.cxx/Debug/60401e4w/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/LOQ/Desktop/MINI PROJECT/FLUTTER/android/app/.cxx/Debug/60401e4w/arm64-v8a/CMakeFiles/rebuild_cache.dir
