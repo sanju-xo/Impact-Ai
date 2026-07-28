@@ -23,7 +23,7 @@ PYTHON/venv/
 *.pth
 
 # Firebase / Google secrets
-google-services.json
-.env
+FLUTTER/android/app/google-services.json
+PYTHON/.env
 PYTHON/json/firebase_config.json
 FLUTTER/android/app/src/main/res/values/strings.xml
