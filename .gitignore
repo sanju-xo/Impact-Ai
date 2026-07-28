@@ -21,3 +21,8 @@ PYTHON/venv/
 # Model files
 *.pt
 *.pth
+
+# Firebase / Google secrets
+PYTHON/json/firebase_config.json
+google-services.json
+.env
