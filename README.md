@@ -134,24 +134,6 @@ flutter pub get
 flutter run
 ```
 
----
-
-## 📸 Screenshots
-
-You can include screenshots here.
-
-```
-assets/screenshots/
-```
-
-Example:
-
-- Admin Dashboard
-- Upload Video
-- Crash Detection
-- Mobile Home Screen
-- Notifications
-- Live Map
 
 ---
 
