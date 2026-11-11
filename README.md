@@ -1,7 +1,7 @@
 # 🚗 Impact AI – Crash Detection System
 
 <p align="center">
-  <img src="screenshots/detection.jpeg" width="45%" alt="Accident Detection">
+  <img src="screenshots/dashboard.jpeg" width="45%" alt="Accident Detection">
   <img src="screenshots/video.jpeg" width="45%" alt="Video">  
   <img src="screenshots/mobile app ui.jpeg" width="45%" alt="Mobile App">
 </p> 
