@@ -1,5 +1,11 @@
 # 🚗 Impact AI – Crash Detection System
 
+<p align="center">
+  <img src="screenshots/detection.jpeg" width="45%" alt="Accident Detection">
+  <img src="screenshots/video.jpeg" width="45%" alt="Video">  
+  <img src="screenshots/mobile app ui.jpeg" width="45%" alt="Mobile App">
+</p> 
+
 An AI-powered road accident detection system that uses **YOLOv8**, **OpenCV**, and **Firebase** to detect vehicle crashes in real time and instantly notify emergency responders.
 
 ## 📖 Overview
