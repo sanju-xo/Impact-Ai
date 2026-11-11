@@ -114,7 +114,7 @@ Impact-AI/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Impact-AI.git
+git clone https://github.com/sanju-xo/Impact-AI.git
 
 cd Impact-AI
 ```
